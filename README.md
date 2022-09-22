@@ -5,5 +5,5 @@ Please inform us of any inaccuracies or missing works.
 | Title | Year |
 |:------|:----:|
 |[Newtonian Space-Time (published version)]()| 1967 |
-|[Was Carnap Entirely Wrong, After All?]()| 1992 |
+|[Was Carnap Entirely Wrong, After All?](https://github.com/AWCarus/Stein/blob/main/pdfs/1992--Was_Carnap_Wrong.pdf)| 1992 |
 
